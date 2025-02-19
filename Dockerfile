@@ -1,4 +1,4 @@
-FROM nginx:1.27.3-alpine
+FROM public.ecr.aws/nginx/nginx:1.27-alpine3.21-slim
 
 RUN apk update && apk upgrade
 
