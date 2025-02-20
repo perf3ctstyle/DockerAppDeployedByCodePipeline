@@ -9,4 +9,3 @@ COPY ./data/image/ /data/image/
 EXPOSE 80/tcp
 EXPOSE 8080/tcp
 EXPOSE 8081/tcp
-
